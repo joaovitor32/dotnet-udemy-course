@@ -4,6 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_01_calculadora</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
