@@ -1,6 +1,6 @@
 ﻿using _02_person.Model;
 
-namespace _02_person.Services.Implementations
+namespace _02_person.Services
 {
     public interface IPersonService
     {
