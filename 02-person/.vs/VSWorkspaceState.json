@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02-person",
+    "\\02-person\\Services",
+    "\\02-person\\Services\\Implementations"
   ],
-  "SelectedNode": "\\02-person.sln",
+  "SelectedNode": "\\02-person\\Services\\Implementations",
   "PreviewInSolutionExplorer": false
 }
