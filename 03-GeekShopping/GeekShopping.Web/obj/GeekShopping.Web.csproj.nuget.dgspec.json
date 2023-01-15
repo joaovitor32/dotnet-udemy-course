@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joao.lopes\\Desktop\\projetos\\dotnet-udemy-course\\03-GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joao.lopes\\Desktop\\projetos\\dotnet-udemy-course\\03-GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joao.lopes\\Desktop\\projetos\\dotnet-udemy-course\\03-GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectName": "GeekShopping.Web",
+        "projectPath": "C:\\Users\\joao.lopes\\Desktop\\projetos\\dotnet-udemy-course\\03-GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "packagesPath": "C:\\Users\\joao.lopes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joao.lopes\\Desktop\\projetos\\dotnet-udemy-course\\03-GeekShopping\\GeekShopping.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joao.lopes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
