@@ -42,12 +42,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[6.0.0-preview.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
