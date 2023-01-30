@@ -4,8 +4,8 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = "MySQlConnection:MySQlConnectionString";
-builder.Services.AddDbContext<MySQLContext>(options => options.UseMySql(builder.Configuration[connectionString], new MySqlServerVersion(new Version(8, 0, 5))));
+var connection = builder.Configuration["MySQlConnection:MySQlConnectionString"];
+builder.Services.AddDbContext<MySQLContext>(options => options.UseMySql(connection, new MySqlServerVersion(new Version(8, 0, 29))));
 
 
 builder.Services.AddControllers();
