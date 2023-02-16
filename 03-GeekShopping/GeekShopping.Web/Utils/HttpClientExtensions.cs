@@ -44,7 +44,5 @@ namespace GeekShopping.Web.Utils
             content.Headers.ContentType = contentType;
             return httpClient.PutAsync(url, content);
         }
-
-
     }
 }
