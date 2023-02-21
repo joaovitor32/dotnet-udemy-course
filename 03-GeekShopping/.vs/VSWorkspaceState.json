@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GeekShopping.ProductAPI"
+    "\\GeekShopping.ProductAPI",
+    "\\GeekShopping.ProductAPI\\NewFolder"
   ],
   "SelectedNode": "\\03-GeekShopping.sln",
   "PreviewInSolutionExplorer": false

@@ -1,6 +1,7 @@
 ﻿using GeekShopping.Web.Models;
 using GeekShopping.Web.Services.IServices;
 using GeekShopping.Web.Utils;
+using System.Reflection;
 
 namespace GeekShopping.Web.Services
 {
@@ -8,22 +9,37 @@ namespace GeekShopping.Web.Services
     {
         private readonly HttpClient _client;
         public const string BasePath = "api/v1/product";
-        public Task<ProductModel> Create(ProductModel product)
+
+        public ProductService(HttpClient client)
         {
-            throw new NotImplementedException();
+            _client = client ?? throw new ArgumentNullException(nameof(client));
         }
+
+        public async Task<ProductModel> Create(ProductModel model)
+        {
+            var response = await _client.PostAsJson(BasePath, model);
+            if (response.IsSuccessStatusCode)
+                return await response.ReadContentAs<ProductModel>();
+            else throw new Exception("Something went wrong when calling API");
+         }
 
         public Task<ProductModel> CreateProduct(ProductModel product)
         {
             throw new NotImplementedException();
         }
-        public Task<ProductModel> UpdateProduct(ProductModel product)
+        public async Task<ProductModel> UpdateProduct(ProductModel model)
         {
-            throw new NotImplementedException();
+            var response = await _client.PostAsJson(BasePath, model);
+            if (response.IsSuccessStatusCode)
+                return await response.ReadContentAs<ProductModel>();
+            else throw new Exception("Something went wrong when calling API");
         }
-        public Task<bool> DeleteProductById(long id)
+        public async Task<bool> DeleteProductById(long id)
         {
-            throw new NotImplementedException();
+            var response = await _client.DeleteAsync($"{BasePath}/{id}");
+            if (response.IsSuccessStatusCode)
+                return await response.ReadContentAs<bool>();
+            else throw new Exception("Something went wrong when calling API");
         }
 
         public async Task<IEnumerable<ProductModel>> FindAllProduct()
