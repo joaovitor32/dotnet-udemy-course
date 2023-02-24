@@ -15,7 +15,7 @@ namespace GeekShopping.Web.Services
             _client = client ?? throw new ArgumentNullException(nameof(client));
         }
 
-        public async Task<ProductModel> Create(ProductModel model)
+        public async Task<ProductModel> CreateProduct(ProductModel model)
         {
             var response = await _client.PostAsJson(BasePath, model);
             if (response.IsSuccessStatusCode)
@@ -23,10 +23,7 @@ namespace GeekShopping.Web.Services
             else throw new Exception("Something went wrong when calling API");
          }
 
-        public Task<ProductModel> CreateProduct(ProductModel product)
-        {
-            throw new NotImplementedException();
-        }
+ 
         public async Task<ProductModel> UpdateProduct(ProductModel model)
         {
             var response = await _client.PostAsJson(BasePath, model);

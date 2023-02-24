@@ -6,7 +6,6 @@ namespace GeekShopping.Web.Services.IServices
     {
         Task<IEnumerable<ProductModel>> FindAllProduct();
         Task<ProductModel> FindProductById(long id);
-        Task<ProductModel> Create(ProductModel product);
 
         Task<ProductModel> CreateProduct(ProductModel product);
 
