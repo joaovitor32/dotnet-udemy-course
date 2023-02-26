@@ -1,5 +1,6 @@
 ﻿using GeekShopping.Web.Models;
 using GeekShopping.Web.Services.IServices;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -48,7 +49,7 @@ namespace GeekShopping.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> ProductUpdate(ProductModel model)
+         public async Task<IActionResult> ProductUpdate(ProductModel model)
         {
             if (ModelState.IsValid)
             {
@@ -58,6 +59,7 @@ namespace GeekShopping.Web.Controllers
             }
             return View(model);
         }
+
 
         public async Task<IActionResult> ProductDelete(int id)
         {
