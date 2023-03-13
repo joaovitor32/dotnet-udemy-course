@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\GeekShopping.IdentityServer"
+    "\\GeekShopping.IdentityServer",
+    "\\GeekShopping.IdentityServer\\Configuration",
+    "\\GeekShopping.IdentityServer\\MainModule",
+    "\\GeekShopping.IdentityServer\\MainModule\\Ciba"
   ],
-  "SelectedNode": "\\03-GeekShopping.sln",
+  "SelectedNode": "\\GeekShopping.IdentityServer\\MainModule\\Ciba\\All.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }

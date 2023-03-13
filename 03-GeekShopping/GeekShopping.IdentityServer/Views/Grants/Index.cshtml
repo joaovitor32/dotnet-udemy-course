@@ -1,7 +1,4 @@
-@page
-@model foo.Pages.Grants.Index
-@{
-}
+﻿@model GrantsViewModel
 
 <div class="grants-page">
     <div class="lead">
@@ -9,7 +6,7 @@
         <p>Below is the list of applications you have given permission to and the resources they have access to.</p>
     </div>
 
-    @if (Model.View.Grants.Any() == false)
+    @if (Model.Grants.Any() == false)
     {
         <div class="row">
             <div class="col-sm-8">
@@ -21,7 +18,7 @@
     }
     else
     {
-        foreach (var grant in Model.View.Grants)
+        foreach (var grant in Model.Grants)
         {
             <div class="card">
                 <div class="card-header">
@@ -35,7 +32,7 @@
                         </div>
 
                         <div class="col-sm-2">
-                            <form asp-page="/Grants/Index">
+                            <form asp-action="Revoke">
                                 <input type="hidden" name="clientId" value="@grant.ClientId">
                                 <button class="btn btn-danger">Revoke Access</button>
                             </form>

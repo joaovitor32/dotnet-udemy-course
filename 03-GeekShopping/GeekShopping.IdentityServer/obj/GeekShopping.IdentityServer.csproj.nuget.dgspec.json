@@ -49,19 +49,19 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.0-preview.3.21201.13, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.0-preview.3.21201.13, )"
             },
-            "Microsoft.AspNetCore.Razor.Runtime": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[6.0.0-preview.3.21201.13, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.0-preview.5, )"
             }
           },
           "imports": [

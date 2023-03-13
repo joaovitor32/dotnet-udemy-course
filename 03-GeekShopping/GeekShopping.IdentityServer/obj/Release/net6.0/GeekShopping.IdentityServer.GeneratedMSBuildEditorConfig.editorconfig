@@ -16,180 +16,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\joao.lopes\Desktop\projetos\dotnet-udemy-course\03-GeekShopping\GeekShopping.IdentityServer
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Account/AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxBY2NvdW50XEFjY2Vzc0RlbmllZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Account/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxBY2NvdW50XExvZ2luXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Account/Logout/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxBY2NvdW50XExvZ291dFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Account/Logout/LoggedOut.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxBY2NvdW50XExvZ291dFxMb2dnZWRPdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Ciba/All.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDaWJhXEFsbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Ciba/Consent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDaWJhXENvbnNlbnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Ciba/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDaWJhXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Ciba/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDaWJhXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Consent/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDb25zZW50XEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Consent/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxDb25zZW50XF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Device/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxEZXZpY2VcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Device/Success.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxEZXZpY2VcU3VjY2Vzcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Device/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxEZXZpY2VcX1Njb3BlTGlzdEl0ZW0uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Diagnostics/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxEaWFnbm9zdGljc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/ExternalLogin/Callback.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxFeHRlcm5hbExvZ2luXENhbGxiYWNrLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/ExternalLogin/Challenge.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxFeHRlcm5hbExvZ2luXENoYWxsZW5nZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Grants/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxHcmFudHNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Home/Error/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxIb21lXEVycm9yXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Redirect/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxSZWRpcmVjdFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/ServerSideSessions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxTZXJ2ZXJTaWRlU2Vzc2lvbnNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Shared/_Nav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxTaGFyZWRcX05hdi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/Shared/_ValidationSummary.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxTaGFyZWRcX1ZhbGlkYXRpb25TdW1tYXJ5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/MainModule/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TWFpbk1vZHVsZVxfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpblxJbmRleC5jc2h0bWw=
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dnZWRPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Logout/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXRcSW5kZXguY3NodG1s
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Logout/LoggedOut.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXRcTG9nZ2VkT3V0LmNzaHRtbA==
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Ciba/All.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxBbGwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Ciba/Consent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxDb25zZW50LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Ciba/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Ciba/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2liYVxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Consent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Consent/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Device/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Device/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Device/_ScopeListItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Device/UserCodeCapture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ2FwdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Device/UserCodeConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Diagnostics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/ExternalLogin/Callback.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxMb2dpblxDYWxsYmFjay5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/ExternalLogin/Challenge.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxMb2dpblxDaGFsbGVuZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Grants/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhbnRzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Home/Error/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Home/Index.cshtml]
@@ -200,24 +68,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Redirect/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/ServerSideSessions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmVyU2lkZVNlc3Npb25zXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/Redirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZGlyZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/_Nav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -235,7 +103,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joao.lopes/Desktop/projetos/dotnet-udemy-course/03-GeekShopping/GeekShopping.IdentityServer/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-gk3t1i9w3y
